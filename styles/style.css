@@ -1,0 +1,108 @@
+
+
+
+header {
+  color: #214019;
+  width: 100%;
+  text-align: center;
+  border:3px solid #193013;
+  /*background-color: peachpuff;*/
+}
+
+header h1 {
+  font-size: 250%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 4px solid maroon;
+  border-bottom: 4px solid maroon;
+  /*background-color: darksalmon;*/
+}
+
+body {
+  color: #214019;
+  clear: both;
+  background-color: cornsilk;
+  font-family: fantasy, sans-serif;
+
+}
+
+ul {
+  list-style: none
+}
+
+footer {
+  width: 100%;
+  text-align: center;
+  border-top:1.5px solid #193013;
+  background-color: cornsilk;
+  margin-top: 40px;
+  clear: both;
+}
+
+p {
+  color: #476628;
+}
+
+.heading-stuff {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.heading-stuff li {
+  display: inline;
+  padding: 40px;
+}
+
+a:visited {
+  color: maroon;
+}
+
+a:link {
+  color: maroon;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+a:hover {
+   color: black;
+   text-decoration: none;
+   font-weight: bold;
+}
+
+.pic li {
+  float: left;
+  text-align: center;
+  padding: 20px
+}
+
+.pic img {
+  height: 230px;
+  width: auto;
+  border: 1px solid black;
+}
+
+.eloquent {
+  text-indent: 50px;
+}
+
+.ruby {
+  float: left;
+  height: 450px;
+  width: auto;
+}
+
+.description {
+  clear: both;
+}
+
+.me {
+  float: left;
+  height: 400px;
+  width: auto;
+  margin-left: 40px
+}
+
+.contact {
+  text-indent: 50px;
+  height: 410px
+}
